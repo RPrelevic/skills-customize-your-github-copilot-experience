@@ -58,6 +58,30 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-apis",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Create a complete REST API using FastAPI framework for managing a digital library system.",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2025-11-14",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "text"
+        },
+        {
+          "name": "Setup Guide",
+          "file": "SETUP.md",
+          "type": "markdown"
+        }
+      ]
     }
   ]
 }
